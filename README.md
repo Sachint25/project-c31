@@ -1,1 +1,2 @@
-# project-c31
+# Plinko
+#completed my white hat jr project
